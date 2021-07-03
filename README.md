@@ -22,6 +22,15 @@ After clicking on Clear All we will get:-
 after clicking on + sign:-
 (https://user-images.githubusercontent.com/70815887/123278955-0a679980-d525-11eb-95d0-ad463b463e5c.png)
 
+05-Menu
+(https://user-images.githubusercontent.com/70815887/124161866-8a5ca900-dabb-11eb-981d-5e2f1e5fc30c.png)
+
+06-Tabs
+(https://user-images.githubusercontent.com/70815887/124161937-9ba5b580-dabb-11eb-85e0-e90ba9e0a9b5.png)
+
+07-Sliders
+(https://user-images.githubusercontent.com/70815887/124162017-aeb88580-dabb-11eb-917a-a6ca76c76a1b.png)
+
 
 
 
